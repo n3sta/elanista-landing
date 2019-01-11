@@ -223,6 +223,8 @@ body {
 
 .functions {
   background-color: $background;
+  max-width: 1170px;
+  margin: 0 auto;
   padding: 70px 35px;
   &__inner {
     display: flex;

@@ -165,6 +165,8 @@ body {
 
 .functions {
   background-color: #FAFAFA;
+  max-width: 1170px;
+  margin: 0 auto;
   padding: 70px 35px; }
   .functions__inner {
     display: flex;
